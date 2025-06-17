@@ -38,9 +38,13 @@ graphql
 Copy
 Edit
 /InventoryManagementSystem
+
 │
+
 ├── /App_Code            # Business logic and helper classes
+
 ├── /Pages               # Web forms (ASPX) pages for UI
+
 ├── Web.config           # Configuration and DB connection
 
 ⚙️ Setup Instructions
